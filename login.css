@@ -1,0 +1,21 @@
+.login{
+  
+    background-color: #f7de8d;
+padding-bottom: 3%;
+padding-top: 1%;
+}
+.login h2 {
+    margin-left: 50%;
+}
+
+.login label{
+    margin-left: 50%;
+}
+.login #logininput{
+    margin-left: 50%;
+}
+.loginbtn{
+    margin-left: 50%;
+}
+.signupbtn{
+}

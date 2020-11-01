@@ -1,0 +1,60 @@
+
+.Footer_Background{
+
+background-color: #fdf1c0;
+
+padding-bottom: 2%;
+padding-left: 2%;
+margin-bottom: -130%;
+}
+
+#Book_Info{
+    padding-top: 2%;
+    width: 30%;
+    height: 40%;
+}
+#Book_Info label{
+    font-family: Arial, bold;
+    font-weight: bold;
+    color: black;
+
+}
+#Book_Info p{
+    font-family: arial; 
+    color: black;
+    margin-top: -4.5%;
+    margin-left: 17%;
+
+}
+#text {
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+#Contact_Info{
+margin-left: 65%;
+margin-top: -14.5%;
+width: 30%;
+height: 50%;
+}
+#Contact_Info label{
+    font-style: arial bold;
+    color: black;
+}
+#Contact_Info p{
+    font-style: arial;
+    color: black;
+}
+
+#feedback{
+    margin-top: 4.5%;
+    margin-left: 42%;
+    width: 30%;
+
+}
+
+#feedback p{
+    font-style: arial;
+    color: black;
+}

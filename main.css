@@ -1,0 +1,152 @@
+/*Edit the top selling title */
+#Selling_Title{
+    background-color:#fdf1c0 ;
+    padding-top: 3%;
+    padding-bottom: 0.5%;
+    margin-top: -3%;
+}
+#Selling_Title h2{
+text-align: center;
+font-size: 27px;
+font-family: Arial, Bold;
+}
+/*End the top selling title */
+
+table{
+    margin-left: 30%;
+
+}
+/*diplay the 6 Item in the table */
+.Display6Item{
+    padding-top: 1%;
+    padding-bottom: 1%;
+background-color: #f3eded;
+}
+/*diplay  3 Item in first table row */
+.Item_TR{
+    background-color: white;
+}
+/*diplay  3 Item in second table row */
+.Item_TR2{
+    background-color: white;
+
+ 
+}
+/*diplay the 1st Item in the table */
+
+#Item label{
+    margin-left: 23%;
+    font-family: arial,bold;
+}
+#Item p{
+    text-align: center;
+}
+#Item button{
+    margin-left: 25%;
+    margin-top: -10%;
+}
+#Item button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+/*diplay the 2nd Item in the table */
+
+#Item2 label{
+    margin-left: 25%;
+    font-family: arial,bold;
+}
+#Item2 p{
+    text-align: center;
+}
+#Item2 button{
+    margin-left: 25%;
+   
+}
+#Item2 button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+
+/*diplay the 3rd Item in the table */
+#Item3{
+    padding-bottom: 2%;
+    padding-top: 5%;
+
+}
+#Item3 label{
+    margin-left: 25%;
+    font-family: arial,bold;
+}
+#Item3 p{
+    text-align: center;
+}
+#Item3 button{
+    margin-left: 25%;
+}
+#Item3 button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+/*diplay the 4th Item in the table */
+
+#Item4 label{
+    margin-left: 25%;
+    font-family: arial,bold;
+}
+#Item4 p{
+    text-align: center;
+}
+#Item4 button{
+    margin-left: 25%;
+}
+#Item4 button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+/*diplay the 5th Item in the table */
+#Item5{
+padding-top: 5%;
+padding-bottom: 2%;
+}
+#Item5 label{
+    margin-left: 25%;
+    margin-bottom: 10%;
+        font-family: arial,bold;
+}
+#Item5 p{
+    text-align: center;
+}
+#Item5 button{
+    margin-left: 25%;
+    margin-bottom: 10%;
+}
+#Item5 button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+/*diplay the 6th Item in the table */
+
+#Item6 label{
+    margin-left: 25%;
+    font-family: arial,bold;
+}
+#Item6 p{
+    text-align: center;
+}
+#Item6 button{
+    margin-left: 25%;
+}
+#Item6 button a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+.another_content{
+    background-color: #f7de8c;
+    padding-bottom: 20%;
+}
